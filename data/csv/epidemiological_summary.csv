@@ -1,0 +1,11 @@
+id,report_date,country,total_confirmed_cases,total_suspected_cases,total_deaths,total_recoveries,overall_case_fatality_rate,overall_recovery_rate,health_zones_affected,total_contacts_listed,contacts_being_monitored,healthcare_workers_infected,vaccination_coverage_percent,current_outbreak_status,additional_notes,source_provider,retrieval_date
+1,2026-05-17,DRC,320,45,62,228,19.4,71.3,15,1850,1680,3,68.5,Active,North Kivu remains hotspot with 125 confirmed cases; Kasai mining zone showing concerning spread,WHO,2026-05-17
+2,2026-05-17,Uganda,135,22,27,87,20.0,64.4,8,850,780,0,71.2,Active,Mbarara district most affected with 62 cases; Gulu refugee settlement showing 28 cases,Uganda MOH,2026-05-17
+3,2026-05-17,REGIONAL_SUMMARY,455,67,89,315,19.6,69.2,23,2700,2460,3,69.5,Active,DRC accounts for 70.3% of cases; Cross-border risk remains elevated at Goma-Rwanda and Uganda-DRC borders,Africa CDC,2026-05-17
+4,2026-05-16,DRC,310,42,58,218,18.7,70.4,15,1800,1650,2,66.0,Active,Daily case increase averaging 10 cases; Healthcare worker protocol improvements noted,WHO,2026-05-16
+5,2026-05-16,Uganda,128,20,25,82,19.5,64.1,8,820,750,0,68.5,Active,New suspected cases at Katuna border point detected and isolated,Uganda MOH,2026-05-16
+6,2026-05-15,DRC,295,38,54,210,18.3,71.2,14,1750,1600,1,62.0,Active,WHO emergency response coordination activated; Vaccination campaign parameters finalized,WHO,2026-05-15
+7,2026-05-15,Uganda,118,18,23,75,19.5,63.6,7,750,680,0,65.0,Active,Border screening measures enhanced; Inter-agency coordination meeting held,Uganda MOH,2026-05-15
+8,2026-05-14,DRC,280,35,51,202,18.2,72.1,13,1650,1500,1,58.5,Active,Goma treatment center at 89 occupancy out of 150 beds,WHO,2026-05-14
+9,2026-05-14,Uganda,110,15,21,68,19.1,61.8,6,680,620,0,60.0,Active,Additional treatment center activated in Kampala,Uganda MOH,2026-05-14
+10,2026-05-13,DRC,265,30,48,190,18.1,71.7,12,1550,1400,0,54.0,Escalating,Initial outbreak notification sent to WHO; International response coordination begins,WHO,2026-05-13
