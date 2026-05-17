@@ -1,0 +1,9 @@
+id,country,border_location,adjacent_country,risk_level,confirmed_cases_nearby,suspected_cases_nearby,screening_protocol_status,cross_border_movement,risk_assessment_date,source_provider,retrieval_date
+1,DRC,Goma-Gisenyi,Rwanda,High,125,18,Active_Screening,Restricted,2026-05-17,WHO,2026-05-17
+2,Uganda,Katuna,DRC,High,78,10,Active_Screening,Restricted,2026-05-17,Uganda MOH,2026-05-17
+3,DRC,Bukavu-Cyangugu,Rwanda,Medium,65,8,Enhanced_Monitoring,Limited,2026-05-17,Africa CDC,2026-05-17
+4,Uganda,Busia,Kenya,Low,0,0,Standard_Monitoring,Normal,2026-05-17,Uganda MOH,2026-05-17
+5,DRC,Kasindi,Uganda,Medium,32,5,Enhanced_Monitoring,Limited,2026-05-17,WHO,2026-05-17
+6,Uganda,Mutukula,Tanzania,Low,0,0,Standard_Monitoring,Normal,2026-05-17,Uganda MOH,2026-05-17
+7,DRC,Izembwe,Zambia,Low,8,1,Standard_Monitoring,Normal,2026-05-17,ReliefWeb,2026-05-17
+8,Uganda,Mpondwe,DRC,Medium,19,3,Enhanced_Monitoring,Limited,2026-05-16,Uganda MOH,2026-05-17
